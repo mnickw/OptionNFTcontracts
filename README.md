@@ -5,7 +5,7 @@ Wrap ERC-721 in another ERC-721 call-option
 ## Crypto asset management using Option NFT sub contracts
 
 
-We prupose a new type of derevative NFT called Option NFT which "wraps" an underlying NFT to a special smart ontract.
+We propose a new type of derevative NFT called Option NFT which "wraps" an underlying NFT to a special smart ontract.
 It is quite different from an Option cntract used on market due to the key Non-fungible feature of NFT, and it's low liquidity. 
 Although, it preserves the main idea, and can be compared to a land option contract for example.
 
